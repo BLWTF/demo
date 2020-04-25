@@ -1,5 +1,3 @@
-#This is a simple readme file
-
-#YUPPERS
+##This is a simple readme file
 
 Just some shit
